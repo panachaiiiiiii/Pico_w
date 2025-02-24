@@ -1,1 +1,2 @@
-# Pico_w
+# download Thonny 
+Link :  https://thonny.org/
